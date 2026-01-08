@@ -136,7 +136,7 @@ A comprehensive student portal system built with modern technologies to manage a
 
 4. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/student_portal.git
+   git clone https://github.com/njobvulabs/student-portal.git
    cd student_portal
    ```
 
@@ -219,7 +219,3 @@ EMAIL_HOST_PASSWORD=your_email_password
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please email nj0075@mca.ac.mw or create an issue in the repository.
